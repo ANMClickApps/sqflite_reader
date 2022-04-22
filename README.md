@@ -1,10 +1,10 @@
-# sqlite_reader
+# sqlite_reader Flutter
 
-A new Flutter project.
+A SQlite Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project use: sqflite: ^2.0.2+1
 
 A few resources to get you started if this is your first Flutter project:
 
